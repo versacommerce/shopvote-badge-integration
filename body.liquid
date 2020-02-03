@@ -1,0 +1,7 @@
+<script src="{{ integration['myScriptURL'] }}"></script>
+<script>
+var myShopID = "{{ integration['myShopID'] }}";
+var myBadgetType = "{{ integration['myBadgetType'] }}";
+var mySrc = ('https:' === document.location.protocol ? 'https' : 'http');
+createRBadge(myShopID, myBadgetType, mySrc);
+</script> 
