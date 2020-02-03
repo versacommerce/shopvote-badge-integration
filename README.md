@@ -30,7 +30,7 @@ This file is empty because it's not needed for this integration.
 ## Configuration options for this integration.
 | Label            | Key         | Default Value                      | Validates presence? |
 | ---------------- | ----------- | ---------------------------------- | :-----------------: |
-| myShopID         | myShopID    | Default value                      |          √          |
+| myShopID         | myShopID    |                                    |          √          |
 | myShopBadgeType  | myBadgeType | 1                                  |                     |
 | myScriptURL      | myScriptURL | https://widgets.shopvote.de/js/rep |                     |
 
