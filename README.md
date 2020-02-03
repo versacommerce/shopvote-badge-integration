@@ -1,0 +1,2 @@
+# ShopVote-Badge-Integration
+
