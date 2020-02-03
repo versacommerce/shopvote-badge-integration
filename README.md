@@ -1,5 +1,5 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="shopvotebadge.png" width="250px" align="right" alt="shopvote.de">](https://www.shopvote.de/?utm_source=www.versacommerce.de)
+[<img src="shopvotebadge.png" width="90px" height="90px" align="right" alt="shopvote.de">](https://www.shopvote.de/?utm_source=www.versacommerce.de)
 
 [VersaCommerce] [integration] [javascript] [ShopVoteBadge]
 
@@ -28,11 +28,11 @@ To use this Integration this file is used in the `<body>` element.
 This file is empty because it's not needed for this integration.
 
 ## Configuration options for this integration.
-| XXXXX       | YYYYY       | ZZZZZ     |
-| ----------- | ----------- | --------- |
-|      a      |      a      |     a     |
-|      b      |      b      |     b     |
-|      c      |      c      |     c     |
+| Label            | Key         | Default Value                      | Validates presence? |
+| ---------------- | ----------- | ---------------------------------- | :-----------------: |
+| myShopID         | myShopID    | Default value                      |          √          |
+| myShopBadgeType  | myBadgeType | 1                                  |                     |
+| myScriptURL      | myScriptURL | https://widgets.shopvote.de/js/rep |                     |
 
 
 ##  Customization
