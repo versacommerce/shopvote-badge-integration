@@ -22,7 +22,7 @@ This integration is pre-installed with every VersaCommerce store. To enable it, 
 This file is empty because it's not needed for this integration.
 
 ### body.liquid
-To use this Integration this file is used in the `<body>` element.
+All code for this integration takes places in head.liquid, which is injected inside ```<body>...</body>``` of the rendered html document.
 
 ### email.liquid
 This file is empty because it's not needed for this integration.
