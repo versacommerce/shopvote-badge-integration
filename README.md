@@ -1,7 +1,5 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-[<img src="shopvotebadge.png" width="90px" height="90px" align="right" alt="shopvote.de">](https://www.shopvote.de/?utm_source=www.versacommerce.de)
-
-[VersaCommerce] [integration] [javascript] [ShopVoteBadge]
+[<img src="shopvotebadge.png" width="100px" height="100px" align="right" alt="shopvote.de">](https://www.shopvote.de/?utm_source=www.versacommerce.de)
 
 # ShopVote Badge Integration for VersaCommerce
 
